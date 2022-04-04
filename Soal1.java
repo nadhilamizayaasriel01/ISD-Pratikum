@@ -51,7 +51,7 @@ public class Soal1 {
             System.out.println("2. Tampilkan seluruh to do list");
             System.out.println("3. Menghapus list yang telah diselesaikan");
             System.out.println("4. Menampilkan list tugas terbaru");
-            System.out.println("5. Menampilkan to do list terbaru");
+            System.out.println("5. Tugas berikutnya dikerjakan");
             System.out.println("6. Keluar");
             System.out.print("Masukkan inputtan kamu: ");
             input = scanner.next();
